@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<Students>
+	<student id="1">
+		<name>zhangsan</name>
+		<age>20</age>
+		<dob>1990.1.1</dob>
+	</student>
+	<student id="2">
+		<name>lisi</name>
+		<age>19</age>
+		<dob>1991.1.1</dob>
+	</student>
+</Students>
